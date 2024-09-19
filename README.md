@@ -1,0 +1,2 @@
+- My first attempt at a personal website portfolio
+- Contains past personal projects, github profile, linkedin profile, etc.
